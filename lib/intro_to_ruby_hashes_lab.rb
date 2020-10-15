@@ -4,7 +4,7 @@ end
 
 def my_hash
   {
-    dog: 
+    dog: "Joey"
   }
   
 end
